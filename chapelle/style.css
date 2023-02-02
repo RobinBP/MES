@@ -1,0 +1,26 @@
+/*
+Theme Name: Chapelle
+*/
+
+/* Corps, Entête et Pied de page */
+body {
+    margin: 0;
+    font-family: Montserrat, sans-serif !important;
+}
+
+footer {
+    background-color: black;
+    text-decoration: none !important;
+    color: gray !important;
+}
+
+/* Banderolle (en dessous de la navbar) */
+.banderolle {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Montserrat, sans-serif !important;
+}
+
+
+.title {font-family: 'Playfair Display', serif !important;}
